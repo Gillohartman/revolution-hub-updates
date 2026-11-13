@@ -1,7 +1,7 @@
 {
-    "version":  "2.9.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.9.0.zip",
-    "sha256":  "5b6587d638c87ebbb163c1cbddf140bf80fd442644c47ccb1a1d547bd00c7760",
-    "notes":  "2FA mit Authenticator-App, automatische Update-Suche, eigenes Konto-Projekt",
+    "version":  "2.9.1",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.9.1.zip",
+    "sha256":  "a8090e6a4360c3d76dcc8082a8b0183e94db1253cf59e62549815a729bf7b9cc",
+    "notes":  "Klick-Klang lässt sich wieder umstellen, 2FA, automatische Update-Suche",
     "date":  "2026-11-13"
 }
