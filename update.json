@@ -1,7 +1,7 @@
 {
-    "version":  "2.10.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.10.0.zip",
-    "sha256":  "608ae4079e7dcee280d7b073f7d294c03243d205c00b149abe3558dc8c6a65a6",
-    "notes":  "Chats wie Discord (Emojis, Bilder, Freunde), Gegner anschreiben, roter Punkt, Geo 2v2, Coach mit Stimme, Schematics in 3D, Was-ist-neu-Fenster",
+    "version":  "2.11.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.11.0.zip",
+    "sha256":  "21041e84b2c3a30d7757ee6badfb5ca67ff41e82d9fc238753b64429ad1b9932",
+    "notes":  "Fussball in der Island, Clips repariert (richtiger Monitor, Controller), Dock rechts ueber den Apps, natuerliche Coach-Stimme, Schematics-Bewertungen, Revolution Island",
     "date":  "2026-11-13"
 }
