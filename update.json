@@ -1,7 +1,7 @@
 {
-    "version":  "2.11.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.11.0.zip",
-    "sha256":  "21041e84b2c3a30d7757ee6badfb5ca67ff41e82d9fc238753b64429ad1b9932",
-    "notes":  "Fussball in der Island, Clips repariert (richtiger Monitor, Controller), Dock rechts ueber den Apps, natuerliche Coach-Stimme, Schematics-Bewertungen, Revolution Island",
-    "date":  "2026-11-13"
+    "version": "2.12.0",
+    "url": "https://github.com/Gillohartman/revolution-hub-updates/releases/download/v2.12.0/Revulution-Hub-Update-2.12.0.zip",
+    "sha256": "5164304eda8208fb6effe5bb93b9abceb56e7ad1cd8af664c2aeda80448f8db0",
+    "notes": "Revulution: Fussball-App mit allen Live-Spielen, Dock unten aus Glas, Update-Popup, Island ohne Schriftzug (jetzt per Update), Coach lobt dich",
+    "date": "2026-11-13"
 }
