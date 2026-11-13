@@ -1,7 +1,7 @@
 {
-    "version":  "2.9.1",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.9.1.zip",
-    "sha256":  "a8090e6a4360c3d76dcc8082a8b0183e94db1253cf59e62549815a729bf7b9cc",
-    "notes":  "Klick-Klang lässt sich wieder umstellen, 2FA, automatische Update-Suche",
+    "version":  "2.10.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.10.0.zip",
+    "sha256":  "608ae4079e7dcee280d7b073f7d294c03243d205c00b149abe3558dc8c6a65a6",
+    "notes":  "Chats wie Discord (Emojis, Bilder, Freunde), Gegner anschreiben, roter Punkt, Geo 2v2, Coach mit Stimme, Schematics in 3D, Was-ist-neu-Fenster",
     "date":  "2026-11-13"
 }
