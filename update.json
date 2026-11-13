@@ -1,0 +1,7 @@
+{
+    "version":  "2.9.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revolution-Hub-Update-2.9.0.zip",
+    "sha256":  "5b6587d638c87ebbb163c1cbddf140bf80fd442644c47ccb1a1d547bd00c7760",
+    "notes":  "2FA mit Authenticator-App, automatische Update-Suche, eigenes Konto-Projekt",
+    "date":  "2026-11-13"
+}
