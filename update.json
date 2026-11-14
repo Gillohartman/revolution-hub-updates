@@ -1,7 +1,7 @@
 {
-    "version":  "2.14.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.14.0.zip",
-    "sha256":  "1b979ba3e605fc648999c643cfaca1246b6384c38b9429893f9d42c1d992e40f",
-    "notes":  "Handy spiegeln per AirPlay, Video-Schnitt im Resolve-Look (Klinge, In-Out, Ripple, Seiten), Kommentarfeld mittig",
+    "version":  "2.15.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.15.0.zip",
+    "sha256":  "18ac11f7ce44a3e7933c1085190fd67749fe45eb5275dbfd711e6e9d3dce7c02",
+    "notes":  "Video: TikTok-Effekte und Übergänge, 9:16 und 1:1; Schach-Coach Magnus mit weiblicher Stimme; neues Resolve-Design; Standard-GIFs fürs Tastatur-Display",
     "date":  "2026-11-14"
 }
