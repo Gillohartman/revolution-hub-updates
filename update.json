@@ -1,7 +1,7 @@
 {
-    "version":  "2.17.1",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.17.1.zip",
-    "sha256":  "3d92170e0098065eea5eb24e79af4ec9a47bd54b18a0262a9bc44dee9639d720",
-    "notes":  "2.17.1: Alte Orbit-Island-App gesperrt, Island-Fenster entfernt, alte Startmenue-Verknuepfungen und fremde Island-Prozesse blockiert.",
+    "version":  "2.20.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.20.0.zip",
+    "sha256":  "69ec710c3f5ac452da2d383b325b8a26c0f49474ac802449b1cd876442907aa3",
+    "notes":  "2.20.0: Kompakte transparente Revulution-Leiste ohne schwarze Kacheln, lückenloses Windows-Popup, stabiler ohne Flackern, Rechtsklick-Menü mit Task beenden, neues Startmenü-Verhalten und metallisches Logo.",
     "date":  "2026-11-14"
 }
