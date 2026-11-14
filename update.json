@@ -1,7 +1,7 @@
 {
-    "version":  "2.15.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.15.0.zip",
-    "sha256":  "18ac11f7ce44a3e7933c1085190fd67749fe45eb5275dbfd711e6e9d3dce7c02",
-    "notes":  "Video: TikTok-Effekte und Übergänge, 9:16 und 1:1; Schach-Coach Magnus mit weiblicher Stimme; neues Resolve-Design; Standard-GIFs fürs Tastatur-Display",
+    "version":  "2.15.1",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.15.1.zip",
+    "sha256":  "a8ef866c10d0f3ba2ce39878f925a8e8ebdc5c88339558da7df17455b12f53e7",
+    "notes":  "Sprachanrufe mit Ringtone 048 und Nachrichtentoene 053/054; neues Beat Lab mit Drums, Bass, Lead, Mixer und WAV-Export; Video-Farbseite mit Color Wheels, Scopes, Fairlight und Liefer-Presets; RGB-Live-Vorschau ohne Flackern; tiefe Magnus-Stimme.",
     "date":  "2026-11-14"
 }
