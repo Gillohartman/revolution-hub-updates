@@ -1,7 +1,7 @@
 {
-    "version": "2.13.0",
-    "url": "https://github.com/Gillohartman/revolution-hub-updates/releases/download/v2.13.0/Revulution-Hub-Update-2.13.0.zip",
-    "sha256": "1fe22b1e5265291f0ab8311158625365da2a10ed70278a5302b95b594a36dc9a",
-    "notes": "Neue Startseite mit Kategorien, einklappbares Glas-Dock, Bildschirmzeit, Handy spiegeln, Fussball repariert, Coach mit Stimmen, Autoclicker-Maustasten",
-    "date": "2026-11-14"
+    "version":  "2.13.1",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.13.1.zip",
+    "sha256":  "808676d720db10099a1d1d9416a2d1c0e11920e27d4b8ab36c3f7327bd9ab735",
+    "notes":  "Echte Spiel-FPS im Crosshair-Overlay (Gaming Hub \u003e Leistung \u003e Echte Spiel-FPS einrichten)",
+    "date":  "2026-11-14"
 }
