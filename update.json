@@ -1,7 +1,7 @@
 {
-    "version":  "2.13.2",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.13.2.zip",
-    "sha256":  "79fb49b667cdc6921ab313073a710550608b4a175e7c988789a7f88cd110b7d2",
-    "notes":  "Neue OLED-schwarze Dock-Kapsel, iPhone-Hinweis in Handy spiegeln korrigiert",
-    "date":  "2026-11-14"
+    "version": "2.13.3",
+    "url": "https://github.com/Gillohartman/revolution-hub-updates/releases/download/v2.13.3/Revulution-Hub-Update-2.13.3.zip",
+    "sha256": "69deb4dce1eb163c8c593c4d7b72b52c41bbf583f1d71a1e6f918f3aed3f7c06",
+    "notes": "Neue App Tastatur (Umbelegung, Makros, Profile, Tastentest), Island zeigt die letzten Nachrichten, neue Dock-Kapsel",
+    "date": "2026-11-14"
 }
