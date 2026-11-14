@@ -1,7 +1,7 @@
 {
-    "version":  "2.15.1",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.15.1.zip",
-    "sha256":  "a8ef866c10d0f3ba2ce39878f925a8e8ebdc5c88339558da7df17455b12f53e7",
-    "notes":  "Sprachanrufe mit Ringtone 048 und Nachrichtentoene 053/054; neues Beat Lab mit Drums, Bass, Lead, Mixer und WAV-Export; Video-Farbseite mit Color Wheels, Scopes, Fairlight und Liefer-Presets; RGB-Live-Vorschau ohne Flackern; tiefe Magnus-Stimme.",
+    "version":  "2.16.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.16.0.zip",
+    "sha256":  "16ee0a5a5ef23493b47d66e54bbfeffc34d9c50525ed9c7b0a624c396be55614",
+    "notes":  "PC-RGB steuert das ASRock-Mainboard jetzt direkt ohne OpenRGB-Download; die LEDs laufen stabil weiter. Dazu Beat Lab mit mehr Drums, Kits und Grooves, Waehlton beim Anrufen, feste GIF-Vorschauen, RGB-Tastaturvorschau, kompaktere Tabs und das neue Schach-Ergebnis mit Lobby-Button.",
     "date":  "2026-11-14"
 }
