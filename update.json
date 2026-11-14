@@ -1,7 +1,7 @@
 {
-    "version":  "2.13.1",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.13.1.zip",
-    "sha256":  "808676d720db10099a1d1d9416a2d1c0e11920e27d4b8ab36c3f7327bd9ab735",
-    "notes":  "Echte Spiel-FPS im Crosshair-Overlay (Gaming Hub \u003e Leistung \u003e Echte Spiel-FPS einrichten)",
+    "version":  "2.13.2",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.13.2.zip",
+    "sha256":  "79fb49b667cdc6921ab313073a710550608b4a175e7c988789a7f88cd110b7d2",
+    "notes":  "Neue OLED-schwarze Dock-Kapsel, iPhone-Hinweis in Handy spiegeln korrigiert",
     "date":  "2026-11-14"
 }
