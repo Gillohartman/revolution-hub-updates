@@ -1,7 +1,7 @@
 {
-    "version":  "2.20.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.20.0.zip",
-    "sha256":  "69ec710c3f5ac452da2d383b325b8a26c0f49474ac802449b1cd876442907aa3",
-    "notes":  "2.20.0: Kompakte transparente Revulution-Leiste ohne schwarze Kacheln, lückenloses Windows-Popup, stabiler ohne Flackern, Rechtsklick-Menü mit Task beenden, neues Startmenü-Verhalten und metallisches Logo.",
+    "version":  "2.21.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.21.0.zip",
+    "sha256":  "366a689f67cb9f815195100f00716f361c6014d6f511bb6317e3117dbf741bdf",
+    "notes":  "Desktop als eigene App mit Widgets, Windows-Logo und Power-Knopf in der Leiste, ruhigere Fenster ohne doppelte Ränder, gezielte Livewerte im Kontrollzentrum, Hover-Tilt für App-Karten, kompakte Profilkarte, zentrierte Schalter und flackerfreie Tastatur-/RGB-Seite.",
     "date":  "2026-11-14"
 }
