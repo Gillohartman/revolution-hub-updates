@@ -1,7 +1,7 @@
 {
     "version":  "2.17.1",
     "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.17.1.zip",
-    "sha256":  "e1c49f5331071302b3b073e8400ea454f1d7c4854a8f7104bd9c7aa6a1793719",
+    "sha256":  "3d92170e0098065eea5eb24e79af4ec9a47bd54b18a0262a9bc44dee9639d720",
     "notes":  "2.17.1: Alte Orbit-Island-App gesperrt, Island-Fenster entfernt, alte Startmenue-Verknuepfungen und fremde Island-Prozesse blockiert.",
     "date":  "2026-11-14"
 }
