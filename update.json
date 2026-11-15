@@ -1,7 +1,7 @@
 {
-    "version":  "2.28.1",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.28.1.zip",
-    "sha256":  "ed67a5c3ec1d8ae0334d27a2c4054d3af5d3dd3a5c7d2120d7291443d8a1b06e",
-    "notes":  "Albumbilder und YouTube-Kanalbilder, Glas auch inaktiv",
+    "version":  "2.28.2",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.28.2.zip",
+    "sha256":  "92ceef6b015e3cc45525bcb36a18aa9580065a7dde4e1aaf48bef9ad518eebeb",
+    "notes":  "Profil-Pille aufgeraeumt, untere Leiste standardmaessig aus",
     "date":  "2026-11-15"
 }
