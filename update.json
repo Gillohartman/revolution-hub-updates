@@ -1,7 +1,7 @@
 {
-    "version":  "2.25.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.25.0.zip",
-    "sha256":  "04de9eda873e9def4b02f22827dc31898db83c2b3c6fa62f63a215c8fdc0d921",
-    "notes":  "Win-Menü mit Suche, Widgets auf jedem Monitor, 4K-Hintergründe, Kamera-Wächter, Schach-Coachin, neue Klicks, Auto-Clips repariert",
+    "version":  "2.26.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.26.0.zip",
+    "sha256":  "035e7a8af60bd0c1825db52ccdad8af6ed40152a16598843b9320ada1c960ca1",
+    "notes":  "",
     "date":  "2026-11-15"
 }
