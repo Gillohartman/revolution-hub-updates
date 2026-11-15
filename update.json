@@ -1,7 +1,7 @@
 {
-    "version":  "2.21.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.21.0.zip",
-    "sha256":  "366a689f67cb9f815195100f00716f361c6014d6f511bb6317e3117dbf741bdf",
-    "notes":  "Desktop als eigene App mit Widgets, Windows-Logo und Power-Knopf in der Leiste, ruhigere Fenster ohne doppelte Ränder, gezielte Livewerte im Kontrollzentrum, Hover-Tilt für App-Karten, kompakte Profilkarte, zentrierte Schalter und flackerfreie Tastatur-/RGB-Seite.",
-    "date":  "2026-11-14"
+    "version": "2.23.0",
+    "url": "https://github.com/Gillohartman/revolution-hub-updates/releases/download/v2.23.0/Revulution-Hub-Update-2.23.0.zip",
+    "sha256": "0096995828f8f593bdf776b1fab21be29e1751166858a36be7474d24f0d2c32c",
+    "notes": "Viel weniger CPU/RAM, neue schwarze Leiste, echtes Glas, Anruf-Lautstaerke + Island, GeoRevulution Schnelles Spiel/Offene Party/Blitz, Hintergruende einreichen, Island-Songtexte animiert",
+    "date": "2026-11-15"
 }
