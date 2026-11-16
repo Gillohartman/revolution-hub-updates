@@ -1,7 +1,7 @@
 {
-    "version":  "2.31.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.31.0.zip",
-    "sha256":  "9f0a8fd079024547c463ccc95afb4af3048e0b4492df7d10a7d15a46bcbf903d",
-    "notes":  "Revolution Store",
+    "version":  "2.32.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.32.0.zip",
+    "sha256":  "c6facf42c588e0e8c6a2aeaaa564e00fb1d5b87748c3ca01ac7017b9552ccdb4",
+    "notes":  "Beat Lab Kopieren/Einfuegen, eigene Logos, neues Update-Fenster",
     "date":  "2026-11-16"
 }
