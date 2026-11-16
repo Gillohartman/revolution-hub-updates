@@ -1,7 +1,7 @@
 {
-    "version":  "2.29.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.29.0.zip",
-    "sha256":  "00addf24445de7682d7fe111852044d92049e2fe9e02126bb3777c3956cfe854",
-    "notes":  "Diktieren, Auto-Untertitel, Beat Lab XL, Visualizer-Widget, Glas bleibt",
+    "version":  "2.30.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.30.0.zip",
+    "sha256":  "c221e3c9917dd04007e7dc55de036eecc4a5004f95e5287958808682291792ca",
+    "notes":  "Neue Stoppuhr (auch in der Island), Community-Galerie oben",
     "date":  "2026-11-16"
 }
