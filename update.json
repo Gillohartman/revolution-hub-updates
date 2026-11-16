@@ -1,7 +1,7 @@
 {
-    "version":  "2.28.3",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.28.3.zip",
-    "sha256":  "24b8291a9dd92dab2f08ceca11d4910d4691830cf3f7b9679acf71968b30a642",
-    "notes":  "Startseite verrutscht beim Kategorie-Wechsel nicht mehr",
-    "date":  "2026-11-15"
+    "version":  "2.29.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.29.0.zip",
+    "sha256":  "00addf24445de7682d7fe111852044d92049e2fe9e02126bb3777c3956cfe854",
+    "notes":  "Diktieren, Auto-Untertitel, Beat Lab XL, Visualizer-Widget, Glas bleibt",
+    "date":  "2026-11-16"
 }
