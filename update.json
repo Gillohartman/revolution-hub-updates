@@ -1,7 +1,7 @@
 {
-    "version":  "2.44.2",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.2.zip",
-    "sha256":  "313dda9d1f633944c512af2c3b31c6e7222b14b76a7b7be94d1a30cf810a879d",
-    "notes":  "",
+    "version":  "2.44.3",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.3.zip",
+    "sha256":  "85909dc89170db5d2767dd5c23e113d898e62c16e0ffd1abc2e59fe61310640e",
+    "notes":  "Full Gaming Mode, Clipper und Facecam: Fehlerbehebungen und sichereres Schliessen.",
     "date":  "2026-11-19"
 }
