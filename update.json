@@ -1,7 +1,7 @@
 {
-    "version":  "2.44.4",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.4.zip",
-    "sha256":  "5a2a6764b8f826c22cec2446fc16504ff02c8c0418fe2ba870f305fb49f8a3a2",
-    "notes":  "Chats: bessere Sprachaufnahme und Nachrichten lokal loeschen.",
+    "version":  "2.44.5",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.5.zip",
+    "sha256":  "be81ff15fbda3ea89e8528a19b111db6b01f0a90a16267c277e30719bb3a23b1",
+    "notes":  "Chats: Nachrichtenmenue, Antworten und Weiterleiten sowie Sprachnachrichten mit Bass.",
     "date":  "2026-11-19"
 }
