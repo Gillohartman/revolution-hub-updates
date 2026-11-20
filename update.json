@@ -1,7 +1,7 @@
 {
-  "version": "2.44.6",
-  "url": "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.6.zip",
-  "sha256": "098b689bb13e39f2613ed54e0224e019c7c818960dcb8398ec00be6f36821c5f",
-  "notes": "Neue Weltansicht mit freien Datenquellen und Warnung vor hoher PC-Belastung.",
-  "date": "2026-11-20"
+    "version":  "2.44.7",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.7.zip",
+    "sha256":  "52308b48c11631d83f8b6bbe79a4dfc5d26cfcb02aed48a644d402f87ae29210",
+    "notes":  "Weltansicht im Revulution-Design mit Standort und optionalen Ereignishinweisen.",
+    "date":  "2026-11-21"
 }
