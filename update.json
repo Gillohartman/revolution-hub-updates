@@ -1,7 +1,7 @@
 {
-    "version":  "2.44.5",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.5.zip",
-    "sha256":  "be81ff15fbda3ea89e8528a19b111db6b01f0a90a16267c277e30719bb3a23b1",
-    "notes":  "Chats: Nachrichtenmenue, Antworten und Weiterleiten sowie Sprachnachrichten mit Bass.",
-    "date":  "2026-11-19"
+  "version": "2.44.6",
+  "url": "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.6.zip",
+  "sha256": "098b689bb13e39f2613ed54e0224e019c7c818960dcb8398ec00be6f36821c5f",
+  "notes": "Neue Weltansicht mit freien Datenquellen und Warnung vor hoher PC-Belastung.",
+  "date": "2026-11-20"
 }
