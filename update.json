@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.2",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.2.zip",
-    "sha256":  "eb43276b928b7aa1c9118110eec17d3c5ef7ddc22f905f614513b25108e9826e",
-    "notes":  "Deck Studio: KI-Agent-Tasten öffnen die App (Claude direkt im richtigen Chat), Freebuff mit echtem Logo und korrekter Arbeitsanzeige, Hintergründe als ruckelfreies Standbild, alte Claude-Symbol-Taste entfernt. Schach: Lobby in Liquid Glass, keine Kästen mehr im Hintergrund. Liquid Glass ohne harte Ränder. Deck: Bilder, Hintergrund über alle Tasten, Rechtsklick-Menü, Programme, Uhren, Lautstärke, Tastenkombinationen, Frage-Anzeige für Claude.",
+    "version":  "2.45.3",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.3.zip",
+    "sha256":  "0ae229b0fcc1bdf8d2c3d3f492cd451f8ed90fd8b5d051046d7e2a3378505414",
+    "notes":  "Deck Studio: Tasten per Ziehen verschieben/tauschen, Vektor-Symbole statt Emojis (z. B. Schloss bei PC sperren), neues Fadenkreuz, echte Programm-Logos (z. B. Epic Games Launcher), Widget-Tasten (Wetter, PC-Leistung, Erde mit Satelliten), kleines Display mit vielen Anzeigen (Zeigeruhr, Digitaluhren, SBB-Bahnhofsuhr, Wetter, Erde, PC-Leistung), KI-Agent-Taste zeigt nach dem Anklicken der App wieder bereit. Shop geschlossen: Kaufen deaktiviert.",
     "date":  "2026-11-23"
 }
