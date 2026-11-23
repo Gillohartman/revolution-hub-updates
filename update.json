@@ -1,7 +1,7 @@
 {
-    "version":  "2.44.7",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.7.zip",
-    "sha256":  "52308b48c11631d83f8b6bbe79a4dfc5d26cfcb02aed48a644d402f87ae29210",
-    "notes":  "Weltansicht im Revulution-Design mit Standort und optionalen Ereignishinweisen.",
-    "date":  "2026-11-21"
+    "version":  "2.44.8",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.44.8.zip",
+    "sha256":  "767919978b317cd43638ecc4a3468a8680c655477dfaf61e42972784d725b41b",
+    "notes":  "Island: Song-Erkennung entfernt, Einstellungen im Hub, kein schwarzer Balken, Minus klappt zu. Neu: PPTX-Export, 15 Vorlagen, Weltkugel mit Tag/Nacht und allen Satelliten, Wetter-Widget, Tiefgang erkennt mehr Antworten, Size It Up zoombar, Schach heisst Schach.",
+    "date":  "2026-11-23"
 }
