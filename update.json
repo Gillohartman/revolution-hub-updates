@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.0.zip",
-    "sha256":  "74e2694f5db60937d20ef1fb9382ce1d1d44d49ff54c74abe260a4741c9d34f5",
-    "notes":  "Weltansicht neu und schlank (Satelliten, Flüge, Live-Kameras) statt 216-MB-3D-Engine. Ulanzi D200 direkt im Stream-Deck-Studio ohne Ulanzi Studio. Startseite mit Kategorie-Leiste, glatte runde Ecken überall, Spiele im Vollbild, Size It Up mit Lobby und Ziehen statt Regler. AJAZZ- und Maus-Studio entfernt.",
+    "version":  "2.45.1",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.1.zip",
+    "sha256":  "e1dae1969f240da712d99407c6c654df94ebe7a830b2fb69701e672188e5c0f9",
+    "notes":  "Deck Studio (erkennt Ulanzi/Stream Deck) mit Aufnahme, Widgets und Claude-Status. Lüfter wie Fan Control. Weltansicht bis auf Häuser zoombar, Cockpit- und 3D-Flugansicht. Glatte runde Ecken überall. Tiefgang ohne Wackeln. Globus-Widget kippbar und bleibt im Bild.",
     "date":  "2026-11-23"
 }
