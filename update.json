@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.3",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.3.zip",
-    "sha256":  "0ae229b0fcc1bdf8d2c3d3f492cd451f8ed90fd8b5d051046d7e2a3378505414",
-    "notes":  "Deck Studio: Tasten per Ziehen verschieben/tauschen, Vektor-Symbole statt Emojis (z. B. Schloss bei PC sperren), neues Fadenkreuz, echte Programm-Logos (z. B. Epic Games Launcher), Widget-Tasten (Wetter, PC-Leistung, Erde mit Satelliten), kleines Display mit vielen Anzeigen (Zeigeruhr, Digitaluhren, SBB-Bahnhofsuhr, Wetter, Erde, PC-Leistung), KI-Agent-Taste zeigt nach dem Anklicken der App wieder bereit. Shop geschlossen: Kaufen deaktiviert.",
+    "version":  "2.45.4",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.4.zip",
+    "sha256":  "6f336913876e0d86e536e1b36c3934dd24e4123c5408e8a01ee9dfa3e2173a74",
+    "notes":  "Soundboard: alle Sounds (Desktop-Widget und Stream-Deck-Tasten) laufen über den Hub und lassen sich stumm schalten – auch per Deck-Taste (Soundboard stumm an/aus, Alle Sounds stoppen). Neu: Mikrofon-Mix – dein Mikrofon und das Soundboard zusammen auf eine Ausgabe, mit Lautstärke-Reglern und Pegelanzeige (für Discord braucht es noch das virtuelle Revolution-Mikrofon, kommt später).",
     "date":  "2026-11-23"
 }
