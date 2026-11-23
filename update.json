@@ -1,7 +1,7 @@
 {
     "version":  "2.45.4",
     "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.4.zip",
-    "sha256":  "6f336913876e0d86e536e1b36c3934dd24e4123c5408e8a01ee9dfa3e2173a74",
-    "notes":  "Soundboard: alle Sounds (Desktop-Widget und Stream-Deck-Tasten) laufen über den Hub und lassen sich stumm schalten – auch per Deck-Taste (Soundboard stumm an/aus, Alle Sounds stoppen). Neu: Mikrofon-Mix – dein Mikrofon und das Soundboard zusammen auf eine Ausgabe, mit Lautstärke-Reglern und Pegelanzeige (für Discord braucht es noch das virtuelle Revolution-Mikrofon, kommt später).",
+    "sha256":  "f8d658cb4c60b02c282c529dfa58f04b08a56f2bed36a1f2101d58f7d18740f9",
+    "notes":  "",
     "date":  "2026-11-23"
 }
