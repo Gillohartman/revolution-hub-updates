@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.1",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.1.zip",
-    "sha256":  "e1dae1969f240da712d99407c6c654df94ebe7a830b2fb69701e672188e5c0f9",
-    "notes":  "Deck Studio (erkennt Ulanzi/Stream Deck) mit Aufnahme, Widgets und Claude-Status. Lüfter wie Fan Control. Weltansicht bis auf Häuser zoombar, Cockpit- und 3D-Flugansicht. Glatte runde Ecken überall. Tiefgang ohne Wackeln. Globus-Widget kippbar und bleibt im Bild.",
+    "version":  "2.45.2",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.2.zip",
+    "sha256":  "eb43276b928b7aa1c9118110eec17d3c5ef7ddc22f905f614513b25108e9826e",
+    "notes":  "Deck Studio: KI-Agent-Tasten öffnen die App (Claude direkt im richtigen Chat), Freebuff mit echtem Logo und korrekter Arbeitsanzeige, Hintergründe als ruckelfreies Standbild, alte Claude-Symbol-Taste entfernt. Schach: Lobby in Liquid Glass, keine Kästen mehr im Hintergrund. Liquid Glass ohne harte Ränder. Deck: Bilder, Hintergrund über alle Tasten, Rechtsklick-Menü, Programme, Uhren, Lautstärke, Tastenkombinationen, Frage-Anzeige für Claude.",
     "date":  "2026-11-23"
 }
