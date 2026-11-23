@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.8",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.8.zip",
-    "sha256":  "39843ef31fae6302a4a7961738251e4889f8f80801ea35e9c9d83750e9299590",
-    "notes":  "Soundboard: Sounds spielen wieder (auch mit Mikrofon-Mix). ChatGPT/Claude: fertig wird bereit, sobald die App vorne war, spaetestens nach 10 Minuten. Desktop-Widgets wandern am Bildschirmrand nicht mehr hin und her.",
+    "version":  "2.45.9",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.9.zip",
+    "sha256":  "1c2173e575b470a3126e9b110d9f61e55103c6c498a0323dae4152d5958014b3",
+    "notes":  "Neues Glas: der Hub zeigt deinen weichgezeichneten Desktop-Hintergrund statt des Live-Windows-Glases - keine Kaestchen mehr beim Drueberfahren und fluessigeres Ziehen. Test-Instanzen fassen die Island nicht mehr an.",
     "date":  "2026-11-23"
 }
