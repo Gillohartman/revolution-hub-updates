@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.5",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.5.zip",
-    "sha256":  "74f9024a703c041d5d16ff9aab442ee7edd3b9056c16576b41ca3749429bc9dc",
+    "version":  "2.45.6",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.6.zip",
+    "sha256":  "194105ca8ece2ef37d0cc6a1bb4554dfe1f1fe10454a5d70fd4289d1bb7a6363",
     "notes":  "Chats: Anmelden/Registrieren beim ersten Start, Direktnachrichten und Geo-Spielstand im Konto, eindeutige Anzeigenamen (sobald die Regeln eingetragen sind). Revolution Island genau in der Mitte. Kindersicherung: schneller Waechter startet den Hub sofort neu, 156 Erwachsenen-Seiten gesperrt. Deck: Standard-Belegung, 20 Standard-Sounds, neuer Sound = neuer Platz, Timer mit Ring, Mikrofon-stumm-Taste, Claude-Limit-Anzeige korrigiert. Zeichnen neu: unendliche Blaetter, Reiter, letzte Screenshots. Video: Zoom springt nicht mehr. Laptops: fluessigeres Fenster-Glas.",
     "date":  "2026-11-23"
 }
