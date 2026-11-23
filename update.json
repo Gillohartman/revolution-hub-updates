@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.7",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.7.zip",
-    "sha256":  "de9ce2b1e349cd7f451ae33c4f666a07ae52cd4f302d75ac221ed247ff6b0196",
-    "notes":  "Revolution Island: wieder das gewohnte Design. Dazu alles aus 2.45.5/2.45.6: Chats mit Konto-Anmeldung, Direktnachrichten im Konto, Kindersicherung mit schnellem Waechter, Deck-Standard-Belegung, 20 Standard-Sounds, Timer mit Ring, Mikrofon-stumm-Taste, Zeichnen mit Reitern und Screenshots, Video-Zoom ohne Springen, fluessigeres Glas auf Laptops.",
+    "version":  "2.45.8",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.8.zip",
+    "sha256":  "39843ef31fae6302a4a7961738251e4889f8f80801ea35e9c9d83750e9299590",
+    "notes":  "Soundboard: Sounds spielen wieder (auch mit Mikrofon-Mix). ChatGPT/Claude: fertig wird bereit, sobald die App vorne war, spaetestens nach 10 Minuten. Desktop-Widgets wandern am Bildschirmrand nicht mehr hin und her.",
     "date":  "2026-11-23"
 }
