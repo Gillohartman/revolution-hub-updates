@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.13",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.13.zip",
-    "sha256":  "f7332a2ef944ccfbf042b6b82da10c79886857b17ecbf06ba99a3534f1b8406a",
-    "notes":  "Das neue Design Pro ist jetzt der Standard. In den Einstellungen unter Design kannst du jederzeit zwischen Pro und Liquid Glass wechseln.",
+    "version":  "2.45.14",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.14.zip",
+    "sha256":  "31cb96924824edfcb2281b5c2257a1437b54938baa7b56b23bcb374cc8bc2111",
+    "notes":  "Design-Auswahl mit Live-Vorschau nach Updates. Neue App-Logos und vollere Startseite, Liquid Glass auch fuer Foto und 3D. 3D-Modell: Ecken und Flaechen bearbeiten, Extrudieren, Kanten runden, 31 fertige Formen, Tutorials. Player so schnell wie die Island, neuer Plattenspieler. Kopfhoerer- und AirPods-Animation mit Akkuring, Taskleiste einfaerbbar. Support-Tickets funktionieren wieder, Klick zur Uhrzeit im Autoclicker, neue App Recherche.",
     "date":  "2026-11-24"
 }
