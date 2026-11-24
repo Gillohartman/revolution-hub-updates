@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.10",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.10.zip",
-    "sha256":  "dfe7be8b35712748101fcd3c6845c5891f29fecf58509354ddeeaed0de8b0c96",
-    "notes":  "Glas wieder wie vorher: das durchsichtige Live-Glas von Windows (Laptops: fluessigeres Mica-Glas). Updates laden nicht mehr mit 404.",
-    "date":  "2026-11-23"
+    "version":  "2.45.12",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.12.zip",
+    "sha256":  "23bb333c3413e90dc8105d3abaf6b3469155602c8b1b285b002083d048b531ba",
+    "notes":  "Neu: Foto-App (wie Photoshop), 3D-Modell fuer 3D-Druck (STL/3MF), Design Pro (Einstellungen \u003e Design), Support-Chat mit Tickets. Zeichnen: unendliche Blaetter, scharf in jedem Zoom, zusammen zeichnen, Stift-Tasten. Island: neues Design, kommt jetzt mit jedem Update, mittig; Themes mit Vorschau; durchsichtige Taskleiste ueber TranslucentTB. Dokumente ohne Kaestchen, Notizen-/To-do-Widget tippbar, Clip-Vorschlaege im Videoschnitt entfernt, alter Code aufgeraeumt.",
+    "date":  "2026-11-24"
 }
