@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.14",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.14.zip",
-    "sha256":  "31cb96924824edfcb2281b5c2257a1437b54938baa7b56b23bcb374cc8bc2111",
-    "notes":  "Design-Auswahl mit Live-Vorschau nach Updates. Neue App-Logos und vollere Startseite, Liquid Glass auch fuer Foto und 3D. 3D-Modell: Ecken und Flaechen bearbeiten, Extrudieren, Kanten runden, 31 fertige Formen, Tutorials. Player so schnell wie die Island, neuer Plattenspieler. Kopfhoerer- und AirPods-Animation mit Akkuring, Taskleiste einfaerbbar. Support-Tickets funktionieren wieder, Klick zur Uhrzeit im Autoclicker, neue App Recherche.",
-    "date":  "2026-11-24"
+    "version":  "2.45.15",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.15.zip",
+    "sha256":  "3d53193df5d74f02c18bf8c3ca2093860a927e1af7fc549734ea5766f20e868f",
+    "notes":  "Dynamic Island weitet sich beim Verbinden von Kopfhoerern auf: links drehen sich 3D-AirPods Pro oder AirPods Max, rechts steht der Akku im Kreis - mit Werten fuer links, rechts und Etui. Neue Island-Symbole in \u0027Was ist neu\u0027.",
+    "date":  "2026-11-26"
 }
