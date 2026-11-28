@@ -1,7 +1,7 @@
 {
-    "version":  "2.48.1",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.1.zip",
-    "sha256":  "1d349c0ae846a514fdda3f14cb0bb0213721362b3512a0f09ead286cf63f48b2",
-    "notes":  "Shop wieder betretbar (Kaufen noch geschlossen); Revolution Max mit 300 GB Cloud für CHF 9.60/Monat oder CHF 96.–/Jahr; Hover-Kasten bei den Hintergründen behoben.",
+    "version":  "2.48.2",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.2.zip",
+    "sha256":  "9871a52d00b528fbb0b38dfe5879065ca323e00a38c9fd2225fac94839960a91",
+    "notes":  "Revolution Max: Revolution Mobile (Clips aufs Handy) angekündigt – Coming Soon.",
     "date":  "2026-11-28"
 }
