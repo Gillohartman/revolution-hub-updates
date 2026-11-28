@@ -1,7 +1,7 @@
 {
-    "version":  "2.48.2",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.2.zip",
-    "sha256":  "9871a52d00b528fbb0b38dfe5879065ca323e00a38c9fd2225fac94839960a91",
-    "notes":  "Revolution Max: Revolution Mobile (Clips aufs Handy) angekündigt – Coming Soon.",
+    "version":  "2.48.3",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.3.zip",
+    "sha256":  "393b05968766d9189778ace493afcffb708bb95fd5edcdfb48ef8ee9b6f9b428",
+    "notes":  "Soundboard ohne Aussetzer und ohne Verzögerung (direkt aufs Revolution Mic); Revolution Max günstiger (CHF 5.90/Monat, 59.–/Jahr); Rabattaktionen mit Werbebanner; Store wieder betretbar.",
     "date":  "2026-11-28"
 }
