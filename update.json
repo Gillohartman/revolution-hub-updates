@@ -1,7 +1,7 @@
 {
-    "version":  "2.45.15",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.45.15.zip",
-    "sha256":  "3d53193df5d74f02c18bf8c3ca2093860a927e1af7fc549734ea5766f20e868f",
-    "notes":  "Dynamic Island weitet sich beim Verbinden von Kopfhoerern auf: links drehen sich 3D-AirPods Pro oder AirPods Max, rechts steht der Akku im Kreis - mit Werten fuer links, rechts und Etui. Neue Island-Symbole in \u0027Was ist neu\u0027.",
-    "date":  "2026-11-26"
+    "version":  "2.48.0",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.0.zip",
+    "sha256":  "e6184107074e2750fcb01428d2b81516444b90754320d593cb00736a0972fc1e",
+    "notes":  "Klavier lernen mit Mikrofon, Lernpfad, Liedern und Coach Clara; Herunterfahren in der Taskleiste; Sicherheitsnetz für die Taskleiste; Live-Hintergründe zuverlässiger; Ladescreen; viele Korrekturen.",
+    "date":  "2026-11-28"
 }
