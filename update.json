@@ -1,7 +1,7 @@
 {
-    "version":  "2.48.0",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.0.zip",
-    "sha256":  "e6184107074e2750fcb01428d2b81516444b90754320d593cb00736a0972fc1e",
-    "notes":  "Klavier lernen mit Mikrofon, Lernpfad, Liedern und Coach Clara; Herunterfahren in der Taskleiste; Sicherheitsnetz für die Taskleiste; Live-Hintergründe zuverlässiger; Ladescreen; viele Korrekturen.",
+    "version":  "2.48.1",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.1.zip",
+    "sha256":  "1d349c0ae846a514fdda3f14cb0bb0213721362b3512a0f09ead286cf63f48b2",
+    "notes":  "Shop wieder betretbar (Kaufen noch geschlossen); Revolution Max mit 300 GB Cloud für CHF 9.60/Monat oder CHF 96.–/Jahr; Hover-Kasten bei den Hintergründen behoben.",
     "date":  "2026-11-28"
 }
