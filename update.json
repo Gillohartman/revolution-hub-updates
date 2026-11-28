@@ -1,7 +1,7 @@
 {
-    "version":  "2.48.3",
-    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.3.zip",
-    "sha256":  "393b05968766d9189778ace493afcffb708bb95fd5edcdfb48ef8ee9b6f9b428",
-    "notes":  "Soundboard ohne Aussetzer und ohne Verzögerung (direkt aufs Revolution Mic); Revolution Max günstiger (CHF 5.90/Monat, 59.–/Jahr); Rabattaktionen mit Werbebanner; Store wieder betretbar.",
+    "version":  "2.48.4",
+    "url":  "https://raw.githubusercontent.com/Gillohartman/revolution-hub-updates/main/Revulution-Hub-Update-2.48.4.zip",
+    "sha256":  "1b180a4d369c376ff5b9c1634cce6225432af34dee21a31ca7d22bbb0694efc3",
+    "notes":  "Revolution Max: CHF 5.99/Monat oder 59.90/Jahr – neu mit eigenen GIFs auf der Ajazz-Tastatur.",
     "date":  "2026-11-28"
 }
